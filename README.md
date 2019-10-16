@@ -9,7 +9,7 @@
 
  ### Functionalities :
 
- - Scarping members from different groups and storing them in CSV files
+ - Scraping members from different groups and storing them in CSV files
  - Read the data from csv files and add them into our groups using  telethon methods.
 
  ### Requirements :
